@@ -1,6 +1,7 @@
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 <!-- + replace URL (i.e. link that's in quotes is replaced with an image link of something I want to put + -->
+<!-- + to obtain the image url. create an imgur account, upload pic, and then copy the generated link + -->
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
