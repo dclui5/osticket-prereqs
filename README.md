@@ -49,7 +49,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/o92wA4J.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <h2>STEP 3 : </h2> In conclusion, the last step would be to delete all resource groups that have been created as a by product of the intialization of the VM's. Ensure that all virtual networks and machines, as well as resource groups are deleted to be certain that no encurred costs result upon the Azure subrscription that has been opened.
